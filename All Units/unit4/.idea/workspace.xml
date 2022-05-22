@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a37269d0-0b47-4fd9-823e-9402906d1d8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ApnaCollege/ApnaCollege.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/libraries/groovy_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/CodeWithHarry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Absract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Custom_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Date_Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/ExceptionClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Exception_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Lambda_Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/OverridingInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/RunnableThreadInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/ThreadInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Thread_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Thread_Priorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Thread_constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/ThreadingInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/Try_catch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/arraydeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/datetimeformatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/java_time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeWithHarry/src/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaNew.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit1/unit1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit2/unit2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit3/src/emppkg/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit3/src/emppkg/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit3/unit3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shubham.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CallMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Caller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtendedThreads/ExtendDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExtendedThreads/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreThread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleThreads/MultipleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultipleThreads/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Producer_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuspendingA_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SyncDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/MainThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Threads/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demopkg/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtpkg/DateEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dtpkg/TimeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgcons/BRConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgcons/MyConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgcons/ScConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgdb/MyDBDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgfile/NewFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgsrl/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pkgsrl/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26ADlvTjZmCSsaXnWKCDx6pIrdL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MoreThread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyDBDemo">
+    <configuration name="MyDBDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pkgdb.MyDBDemo" />
+      <module name="unit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgdb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PCFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PCFixed" />
+      <module name="unit4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuspendResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuspendResume" />
+      <module name="unit4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SynchDemo" />
+      <module name="unit4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThread" />
+      <module name="unit4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyDBDemo" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.SuspendResume" />
+        <item itemvalue="Application.PCFixed" />
+        <item itemvalue="Application.SynchDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a37269d0-0b47-4fd9-823e-9402906d1d8d" name="Changes" comment="" />
+      <created>1646857685691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646857685691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
